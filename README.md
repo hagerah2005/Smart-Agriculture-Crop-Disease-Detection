@@ -43,14 +43,18 @@
 
 ## Dataset
 
-- **Primary Dataset:** [PlantVillage dataset] (Kaggle)  
+- **Primary Dataset:** [PlantVillage dataset] (Kaggle)  https://www.kaggle.com/datasets/emmarex/plantdisease
+   
 - **Optional:** Crop type satellite imagery for additional features.  
 
 ---
 
 ## Tools & Libraries
 
-- Python, OpenCV, Scikit-learn, TensorFlow/Keras, PyTorch, Pandas, NumPy, Matplotlib/Seaborn  
+- Python, OpenCV, Scikit-learn, TensorFlow/Keras, PyTorch, Pandas, NumPy, Matplotlib/Seaborn
+-  **Install the required dependencies:**
+   ```bash
+   pip install -r requirements.txt 
 
 ---
 
