@@ -1,0 +1,5 @@
+matplotlib
+Pillow
+opencv-python
+split-folders
+pandas
