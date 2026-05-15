@@ -62,3 +62,5 @@
 
 - This project progresses from **classical ML** to **deep learning**, and finally to **advanced AI techniques**.  
 - Each phase builds on the previous one, improving performance and explainability.
+## Gradio App Link
+https://handiwork-casket-overdue.ngrok-free.dev/
